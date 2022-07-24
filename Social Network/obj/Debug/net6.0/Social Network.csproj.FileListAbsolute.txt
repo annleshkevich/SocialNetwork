@@ -1,0 +1,65 @@
+D:\Документы\Social Network\Social Network\bin\Debug\net6.0\Social Network.exe
+D:\Документы\Social Network\Social Network\bin\Debug\net6.0\Social Network.deps.json
+D:\Документы\Social Network\Social Network\bin\Debug\net6.0\Social Network.runtimeconfig.json
+D:\Документы\Social Network\Social Network\bin\Debug\net6.0\Social Network.dll
+D:\Документы\Social Network\Social Network\bin\Debug\net6.0\Social Network.pdb
+D:\Документы\Social Network\Social Network\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Документы\Social Network\Social Network\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Документы\Social Network\Social Network\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Документы\Social Network\Social Network\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Документы\Social Network\Social Network\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Документы\Social Network\Social Network\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Документы\Social Network\Social Network\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Документы\Social Network\Social Network\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\Документы\Social Network\Social Network\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Документы\Social Network\Social Network\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Документы\Social Network\Social Network\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Документы\Social Network\Social Network\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Документы\Social Network\Social Network\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Документы\Social Network\Social Network\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Документы\Social Network\Social Network\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Документы\Social Network\Social Network\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Документы\Social Network\Social Network\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Документы\Social Network\Social Network\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Документы\Social Network\Social Network\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Документы\Social Network\Social Network\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Документы\Social Network\Social Network\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Документы\Social Network\Social Network\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Документы\Social Network\Social Network\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Документы\Social Network\Social Network\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Документы\Social Network\Social Network\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Документы\Social Network\Social Network\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Документы\Social Network\Social Network\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Документы\Social Network\Social Network\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Документы\Social Network\Social Network\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Документы\Social Network\Social Network\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Документы\Social Network\Social Network\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Документы\Social Network\Social Network\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Документы\Social Network\Social Network\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Документы\Social Network\Social Network\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Документы\Social Network\Social Network\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Документы\Social Network\Social Network\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Документы\Social Network\Social Network\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Документы\Social Network\Social Network\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Документы\Social Network\Social Network\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Документы\Social Network\Social Network\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Документы\Social Network\Social Network\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Документы\Social Network\Social Network\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Документы\Social Network\Social Network\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Документы\Social Network\Social Network\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Документы\Social Network\Social Network\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Документы\Social Network\Social Network\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Документы\Social Network\Social Network\obj\Debug\net6.0\Social Network.csproj.AssemblyReference.cache
+D:\Документы\Social Network\Social Network\obj\Debug\net6.0\Social Network.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документы\Social Network\Social Network\obj\Debug\net6.0\Social Network.AssemblyInfoInputs.cache
+D:\Документы\Social Network\Social Network\obj\Debug\net6.0\Social Network.AssemblyInfo.cs
+D:\Документы\Social Network\Social Network\obj\Debug\net6.0\Social Network.csproj.CoreCompileInputs.cache
+D:\Документы\Social Network\Social Network\obj\Debug\net6.0\Social Network.csproj.CopyComplete
+D:\Документы\Social Network\Social Network\obj\Debug\net6.0\Social Network.dll
+D:\Документы\Social Network\Social Network\obj\Debug\net6.0\refint\Social Network.dll
+D:\Документы\Social Network\Social Network\obj\Debug\net6.0\Social Network.pdb
+D:\Документы\Social Network\Social Network\obj\Debug\net6.0\Social Network.genruntimeconfig.cache
+D:\Документы\Social Network\Social Network\obj\Debug\net6.0\ref\Social Network.dll
+D:\Документы\Social Network\Social Network\bin\Debug\net6.0\appsettings.json
+D:\Документы\Social Network\Social Network\bin\Debug\net6.0\Humanizer.dll
+D:\Документы\Social Network\Social Network\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
